@@ -1,4 +1,4 @@
-# Plymouth Theme
+# System bootscreen [![PackageCloud.](https://github.com/kaytime/system-bootscreen/actions/workflows/build.yml/badge.svg)](https://github.com/kaytime/system-bootscreen/actions/workflows/build.yml)
 
 Kaytime Plymouth theme using the ACPI BGRT graphics as background
 
