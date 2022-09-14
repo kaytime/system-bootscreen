@@ -1,4 +1,4 @@
-system-bootscreen (0.1.0) focal; urgency=medium
+system-bootscreen (0.1.0+alpha) focal; urgency=medium
 
   * Initial release
 
